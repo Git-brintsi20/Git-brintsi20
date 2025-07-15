@@ -1,13 +1,19 @@
+
 # Hi there, I'm Salugu Harshita Bhanu 👋
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&pause=1000&color=64FFDA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;CyberSecurity+Enthusiast;Open+Source+Contributor;Building+Secure+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=26&pause=100&color=9D4EDD¢er=true&vCenter=true&width=600&lines=Full+Stack+Developer;CyberSecurity+Enthusiast;Open+Source+Contributor" alt="Typing animation: Full Stack Developer, Cybersecurity Enthusiast, Open Source Contributor" />
 </div>
 
 
-🚀 About Me
+## About Me
+
 💻 Full-stack developer crafting modern web applications with attention to detail
+
 🔐 Cybersecurity enthusiast exploring ethical hacking and security research
+
 🏆 Hackathon participant and open source contributor
+
 ⚡ Tech explorer always diving into cutting-edge technologies
 
 ## Tech Stack
@@ -38,7 +44,7 @@ Here are some of the technologies I work with:
 
 -----
 
-🏆 Achievements
+## 🏆 Achievements
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Git-brintsi20&theme=github_dark" alt="Profile Summary"/>
 </div>
@@ -51,18 +57,16 @@ Here are some of the technologies I work with:
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Git-brintsi20&theme=flat&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)-->
 
 <!-- start_snake_graph -->
+<!--
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dist/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="dist/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="dist/github-contribution-grid-snake.svg" />
-</picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Git-brintsi20/Git-brintsi20/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Git-brintsi20/Git-brintsi20/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Git-brintsi20/Git-brintsi20/output/github-contribution-grid-snake.svg" />
+</picture> -->
 <!-- end_snake_graph -->
----
----
-[![Customized GitHub Metrics](https://metrics.lecoq.io/Git-brintsi20?template=classic&base.header=true&base.activity=true&base.community=true&base.repositories=true&base.metadata=true&activity=true&activity.limit=5&activity.days=30&isocalendar=true&isocalendar.duration=half-year&languages=true&languages.limit=8&languages.threshold=0%&habits=true&habits.from=200&config_timezone=America%2FNew_York)](https://github.com/lowlighter/metrics)
 
 
-🤝 Let's Connect
+## 🤝 Let's Connect
 <div align="center">
   <a href="https://www.linkedin.com/in/salugu-harshita-bhanu-b447b1274/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -74,7 +78,6 @@ Here are some of the technologies I work with:
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
----
 
 <div align="center">
   <h3>💡 Philosophy</h3>
