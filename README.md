@@ -1,4 +1,14 @@
 # Hi there, I'm Salugu Harshita Bhanu 👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&pause=1000&color=64FFDA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;CyberSecurity+Enthusiast;Open+Source+Contributor;Building+Secure+Solutions" alt="Typing SVG" />
+</div>
+
+
+🚀 About Me
+💻 Full-stack developer crafting modern web applications with attention to detail
+🔐 Cybersecurity enthusiast exploring ethical hacking and security research
+🏆 Hackathon participant and open source contributor
+⚡ Tech explorer always diving into cutting-edge technologies
 
 ## Tech Stack
 Here are some of the technologies I work with:
@@ -17,14 +27,63 @@ Here are some of the technologies I work with:
 
 • **Tools:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
 
-## About Me
-💻 **Full-stack web developer** passionate about building modern web applications  
-🔐 **Cybersecurity enthusiast** who ventures into the world of ethical hacking and security research  
-🚀 Love **hackathons** and contributing to **open source** projects  
-⚡ Always exploring cutting-edge technologies and building useful stuff  
+---
+[![Salugu Harshita Bhanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Git-brintsi20&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salugu-harshita-bhanu-b447b1274/) [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/r/p/hacbrintsi20) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shiki2hustle@gmail.com)
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Git-brintsi20&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-*"Passionate about building secure, efficient solutions and exploring the endless possibilities in tech!"* ✨
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Git-brintsi20&theme=dark)](https://git.io/streak-stats)
 
+-----
+
+🏆 Achievements
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Git-brintsi20&theme=github_dark" alt="Profile Summary"/>
+</div>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Git-brintsi20&theme=github_dark" alt="Repos per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Git-brintsi20&theme=github_dark" alt="Most Commit Language"/>
+</div>
+
+<!--
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Git-brintsi20&theme=flat&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)-->
+
+<!-- start_snake_graph -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="dist/github-contribution-grid-snake.svg" />
+</picture>
+<!-- end_snake_graph -->
+---
+---
+[![Customized GitHub Metrics](https://metrics.lecoq.io/Git-brintsi20?template=classic&base.header=true&base.activity=true&base.community=true&base.repositories=true&base.metadata=true&activity=true&activity.limit=5&activity.days=30&isocalendar=true&isocalendar.duration=half-year&languages=true&languages.limit=8&languages.threshold=0%&habits=true&habits.from=200&config_timezone=America%2FNew_York)](https://github.com/lowlighter/metrics)
+
+
+🤝 Let's Connect
+<div align="center">
+  <a href="https://www.linkedin.com/in/salugu-harshita-bhanu-b447b1274/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://tryhackme.com/r/p/hacbrintsi20" target="_blank">
+    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/>
+  </a>
+  <a href="mailto:shiki2hustle@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
+---
+
+<div align="center">
+  <h3>💡 Philosophy</h3>
+  <em>"Passionate about building secure, useful, and efficient solutions while exploring the endless possibilities in tech!"</em>
+</div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=64FFDA&height=100&section=footer&text=&fontSize=16" alt="Footer Wave"/>
+</div>
+
+<div align="center">
+  <sub>Built with ❤️ by <a href="https://github.com/Git-brintsi20">Harshita</a> • Always learning, always building</sub>
+</div>
