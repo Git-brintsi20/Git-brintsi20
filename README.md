@@ -1,7 +1,7 @@
 
 # Hi there, I'm Salugu Harshita Bhanu 👋
 
-<div align="center">
+<div align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=26&pause=100&color=9D4EDD¢er=true&vCenter=true&width=600&lines=Full+Stack+Developer;CyberSecurity+Enthusiast;Open+Source+Contributor" alt="Typing animation: Full Stack Developer, Cybersecurity Enthusiast, Open Source Contributor" />
 </div>
 
@@ -37,7 +37,6 @@ Here are some of the technologies I work with:
 [![Salugu Harshita Bhanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Git-brintsi20&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
----
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Git-brintsi20&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Git-brintsi20&theme=dark)](https://git.io/streak-stats)
