@@ -78,7 +78,7 @@ Here are some of the technologies I work with:
 
 <div align="center">
   <h3>💡 Philosophy</h3>
-  <em>"Passionate about building secure, useful, and efficient solutions while exploring the endless possibilities in tech!"</em>
+  <em>"Building technology that is secure, purposeful, and efficient. Always exploring what's next!"</em>
 </div>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=64FFDA&height=100&section=footer&text=&fontSize=16" alt="Footer Wave"/>
