@@ -34,12 +34,15 @@ Here are some of the technologies I work with:
 • **Tools:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
 
 ---
-[![Salugu Harshita Bhanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Git-brintsi20&hide=issues&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
----
+<div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Git-brintsi20&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Harshita's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Git-brintsi20&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Git-brintsi20&theme=dark)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Git-brintsi20&layout=compact&theme=radical&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Git-brintsi20&theme=radical)](https://git.io/streak-stats)
+
+</div>
 
 -----
 
