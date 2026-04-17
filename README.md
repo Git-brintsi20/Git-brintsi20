@@ -1,4 +1,10 @@
 
+<div align="center">
+  <a href="mailto:shiki2hustle@gmail.com">
+    <img src="https://img.shields.io/badge/🟢%20Open%20to%20Work-Freelance%20%7C%20Internship%20%7C%20Full--Time-brightgreen?style=for-the-badge" alt="Open to Work: Freelance | Internship | Full-Time"/>
+  </a>
+</div>
+
 # Hi there, I'm Salugu Harshita Bhanu 👋
 
 <div align="left">
