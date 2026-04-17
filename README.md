@@ -1,6 +1,6 @@
 <div align="center">
   <a href="mailto:shiki2hustle@gmail.com">
-    <img src="https://img.shields.io/badge/🟢%20Open%20to%20Work-Backend%20%7C%20Full--Stack%20%7C%20AI%20Internships%20(2025)-22C55E?style=for-the-badge" alt="Open to Work"/>
+    <img src="https://img.shields.io/badge/🟢%20Open%20to%20Work-SDE%20Roles%20%7C%20Backend%20%7C%20Full--Stack%20%7C%20AI%20Internships%20%7C%20Open%20Source%20(2026)-22C55E?style=for-the-badge" alt="Open to Work"/>
   </a>
 </div>
 
@@ -54,8 +54,10 @@ Native languages: **Hindi · Telugu · English**
 ![Internship](https://img.shields.io/badge/Backend_Internships-Open-9D4EDD?style=flat-square)
 ![Fullstack](https://img.shields.io/badge/Full--Stack_Internships-Open-9D4EDD?style=flat-square)
 ![AI](https://img.shields.io/badge/AI_Internships-Open-D4AF37?style=flat-square)
+![SDE](https://img.shields.io/badge/SDE_Roles-Open-0EA5E9?style=flat-square)
+![Open Source](https://img.shields.io/badge/Open_Source-Contributions-22C55E?style=flat-square)
 
-Immediately available · 2025
+Immediately available · 2026
 
 </td>
 </tr>
