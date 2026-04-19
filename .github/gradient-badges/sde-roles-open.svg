@@ -1,11 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="210" height="28" role="img" aria-label="SDE Roles: Open">
   <defs>
     <linearGradient id="g4" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#22c55e" />
-      <stop offset="50%" stop-color="#0ea5e9" />
-      <stop offset="100%" stop-color="#a855f7" />
+      <stop offset="0%" stop-color="#f472b6" />
+      <stop offset="50%" stop-color="#c026d3" />
+      <stop offset="100%" stop-color="#7c3aed" />
     </linearGradient>
+    <filter id="textShadow" x="-10%" y="-40%" width="120%" height="200%">
+      <feDropShadow dx="0" dy="1" stdDeviation="1" flood-color="#4a0072" flood-opacity="0.65" />
+    </filter>
   </defs>
   <rect width="210" height="28" rx="7" fill="url(#g4)" />
-  <text x="105" y="19" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#ffffff">SDE ROLES • OPEN</text>
+  <text x="105" y="19" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="800" fill="#ffffff" filter="url(#textShadow)" letter-spacing="0.4">SDE ROLES • OPEN</text>
 </svg>
