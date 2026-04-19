@@ -41,10 +41,10 @@
 
 **📚 Learning**
 
-![AI/ML](https://img.shields.io/badge/AI%2FML-Foundations-7C3AED?style=for-the-badge&logo=tensorflow&logoColor=white)
-![GenAI](https://img.shields.io/badge/Generative_AI-LLMs-%23A855F7?style=for-the-badge&logo=openai&logoColor=white)
-![CRM](https://img.shields.io/badge/CRM_Systems-Architecture-0EA5E9?style=for-the-badge&logo=salesforce&logoColor=white)
-![Japanese](https://img.shields.io/badge/Japanese-Self_Study-F59E0B?style=for-the-badge&logo=googletranslate&logoColor=white)
+![AI/ML](https://img.shields.io/badge/AI%2FML-Foundations-7C3AED?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=7C3AED)
+![GenAI](https://img.shields.io/badge/Generative_AI-LLMs-A855F7?style=for-the-badge&logo=openai&logoColor=white&labelColor=A855F7)
+![CRM](https://img.shields.io/badge/CRM_Systems-Architecture-0EA5E9?style=for-the-badge&logo=salesforce&logoColor=white&labelColor=0EA5E9)
+![Japanese](https://img.shields.io/badge/Japanese-Self_Study-F59E0B?style=for-the-badge&logo=googletranslate&logoColor=white&labelColor=F59E0B)
 
 Native languages: **Hindi · Telugu · English**
 
