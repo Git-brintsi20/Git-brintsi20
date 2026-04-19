@@ -1,11 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="620" height="34" role="img" aria-label="Currently Exploring: AI/ML, GenAI, CRM Architecture, Japanese">
   <defs>
-    <!-- Vibrant 4-stop pink → purple gradient -->
+    <!-- Single-hue purple fade -->
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%"   stop-color="#f472b6"/>
-      <stop offset="33%"  stop-color="#e879f9"/>
-      <stop offset="67%"  stop-color="#a855f7"/>
-      <stop offset="100%" stop-color="#6d28d9"/>
+      <stop offset="0%"   stop-color="#a855f7"/>
+      <stop offset="100%" stop-color="#5b21b6"/>
     </linearGradient>
     <!-- Glass shimmer -->
     <linearGradient id="shimmer" x1="0%" y1="0%" x2="0%" y2="100%">
@@ -13,11 +11,11 @@
       <stop offset="50%"  stop-color="#ffffff" stop-opacity="0.06"/>
       <stop offset="100%" stop-color="#000000" stop-opacity="0.10"/>
     </linearGradient>
-    <!-- Glow border -->
+    <!-- Glow border (purple) -->
     <linearGradient id="border" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%"   stop-color="#fda4af" stop-opacity="0.95"/>
-      <stop offset="50%"  stop-color="#e879f9" stop-opacity="0.55"/>
-      <stop offset="100%" stop-color="#c4b5fd" stop-opacity="0.95"/>
+      <stop offset="0%"   stop-color="#c4b5fd" stop-opacity="0.95"/>
+      <stop offset="50%"  stop-color="#a855f7" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#7c3aed" stop-opacity="0.95"/>
     </linearGradient>
     <filter id="glow" x="-3%" y="-30%" width="106%" height="200%">
       <feDropShadow dx="0" dy="0" stdDeviation="4" flood-color="#c026d3" flood-opacity="0.45"/>
