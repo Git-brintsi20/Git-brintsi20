@@ -1,21 +1,42 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="980" height="38" role="img" aria-label="Open to Work: SDE Roles | Backend | Full-Stack | AI Internships | Open Source (2026)">
   <defs>
-    <linearGradient id="badgeGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#f472b6" />
-      <stop offset="50%" stop-color="#c026d3" />
-      <stop offset="100%" stop-color="#7c3aed" />
+    <!-- Vibrant 4-stop pink → purple gradient -->
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#f472b6"/>
+      <stop offset="33%"  stop-color="#e879f9"/>
+      <stop offset="67%"  stop-color="#a855f7"/>
+      <stop offset="100%" stop-color="#6d28d9"/>
     </linearGradient>
-    <filter id="boxShadow" x="-5%" y="-30%" width="110%" height="200%">
-      <feDropShadow dx="0" dy="2" stdDeviation="2.5" flood-color="#7c3aed" flood-opacity="0.4" />
+    <!-- Glass shimmer overlay (top half brighter) -->
+    <linearGradient id="shimmer" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%"   stop-color="#ffffff" stop-opacity="0.28"/>
+      <stop offset="50%"  stop-color="#ffffff" stop-opacity="0.06"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0.10"/>
+    </linearGradient>
+    <!-- Glow border (pink → purple) -->
+    <linearGradient id="border" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#fda4af" stop-opacity="0.95"/>
+      <stop offset="50%"  stop-color="#e879f9" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#c4b5fd" stop-opacity="0.95"/>
+    </linearGradient>
+    <!-- Outer glow on the badge -->
+    <filter id="glow" x="-3%" y="-30%" width="106%" height="200%">
+      <feDropShadow dx="0" dy="0" stdDeviation="4" flood-color="#c026d3" flood-opacity="0.45"/>
     </filter>
-    <filter id="textShadow" x="-10%" y="-40%" width="120%" height="200%">
-      <feDropShadow dx="0" dy="1" stdDeviation="1.5" flood-color="#4a0072" flood-opacity="0.7" />
+    <!-- Text shadow -->
+    <filter id="tshadow" x="-8%" y="-60%" width="116%" height="300%">
+      <feDropShadow dx="0" dy="1" stdDeviation="2" flood-color="#3b0764" flood-opacity="0.85"/>
     </filter>
   </defs>
 
-  <rect x="1" y="1" width="978" height="36" rx="8" fill="url(#badgeGradient)" filter="url(#boxShadow)" />
+  <!-- Outer glow layer -->
+  <rect x="1" y="1" width="978" height="36" rx="8" fill="url(#bg)" filter="url(#glow)"/>
+  <!-- Glass shimmer overlay -->
+  <rect x="1" y="1" width="978" height="36" rx="8" fill="url(#shimmer)"/>
+  <!-- Glowing border stroke -->
+  <rect x="1.5" y="1.5" width="977" height="35" rx="7.5" fill="none" stroke="url(#border)" stroke-width="1.2"/>
 
-  <text x="490" y="25" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="800" fill="#ffffff" filter="url(#textShadow)" letter-spacing="0.5">
+  <text x="490" y="25" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="800" fill="#ffffff" filter="url(#tshadow)" letter-spacing="0.7">
     OPEN TO WORK • SDE ROLES • BACKEND • FULL-STACK • AI INTERNSHIPS • OPEN SOURCE (2026)
   </text>
 </svg>
