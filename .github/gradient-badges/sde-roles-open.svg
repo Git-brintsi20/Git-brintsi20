@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="210" height="28" role="img" aria-label="SDE Roles: Open">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%"   stop-color="#a855f7"/>
-      <stop offset="100%" stop-color="#5b21b6"/>
+      <stop offset="0%"   stop-color="#1a0533"/>
+      <stop offset="100%" stop-color="#2e1065"/>
     </linearGradient>
     <linearGradient id="shine" x1="0%" y1="0%" x2="0%" y2="100%">
       <stop offset="0%"   stop-color="#ffffff" stop-opacity="0.28"/>
@@ -19,5 +19,5 @@
   <rect width="210" height="28" rx="7" fill="url(#bg)" filter="url(#glow)"/>
   <rect width="210" height="28" rx="7" fill="url(#shine)"/>
   <rect x="0.75" y="0.75" width="208.5" height="26.5" rx="6.5" fill="none" stroke="#c4b5fd" stroke-opacity="0.7" stroke-width="1"/>
-  <text x="105" y="19" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="800" fill="#ffffff" filter="url(#tshadow)" letter-spacing="0.5">SDE ROLES • OPEN</text>
+  <text x="105" y="19" text-anchor="middle" font-family="Verdana, Geneva, Tahoma, sans-serif" font-size="12" font-weight="800" fill="#ffffff" filter="url(#tshadow)" letter-spacing="0.5">SDE ROLES • OPEN</text>
 </svg>

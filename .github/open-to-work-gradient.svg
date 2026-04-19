@@ -2,8 +2,8 @@
   <defs>
     <!-- Single-hue purple fade -->
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%"   stop-color="#a855f7"/>
-      <stop offset="100%" stop-color="#5b21b6"/>
+      <stop offset="0%"   stop-color="#1a0533"/>
+      <stop offset="100%" stop-color="#2e1065"/>
     </linearGradient>
     <!-- Glass shimmer overlay (top half brighter) -->
     <linearGradient id="shimmer" x1="0%" y1="0%" x2="0%" y2="100%">
@@ -34,7 +34,7 @@
   <!-- Glowing border stroke -->
   <rect x="1.5" y="1.5" width="977" height="35" rx="7.5" fill="none" stroke="url(#border)" stroke-width="1.2"/>
 
-  <text x="490" y="25" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="800" fill="#ffffff" filter="url(#tshadow)" letter-spacing="0.7">
+  <text x="490" y="25" text-anchor="middle" font-family="Verdana, Geneva, Tahoma, sans-serif" font-size="14" font-weight="800" fill="#ffffff" filter="url(#tshadow)" letter-spacing="0.7">
     OPEN TO WORK • SDE ROLES • BACKEND • FULL-STACK • AI INTERNSHIPS • OPEN SOURCE (2026)
   </text>
 </svg>
