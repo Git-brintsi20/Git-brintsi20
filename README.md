@@ -32,6 +32,8 @@
 <h2 align="center">🌱 Currently Exploring</h2>
 
 <div align="center">
+  <img src="./.github/currently-exploring-gradient.svg" alt="Currently Exploring"/>
+  <br/><br/>
 
 <table>
 <tr>
@@ -39,10 +41,10 @@
 
 **📚 Learning**
 
-![AI/ML](https://img.shields.io/badge/AI%2FML-Fundamentals-9D4EDD?style=flat-square)
-![GenAI](https://img.shields.io/badge/Generative_AI-LLMs-7B2FBE?style=flat-square)
-![CRM](https://img.shields.io/badge/CRM_Systems-Architecture-D4AF37?style=flat-square)
-![Japanese](https://img.shields.io/badge/🇯🇵_Japanese-Self_Study-D4AF37?style=flat-square)
+![AI/ML](https://img.shields.io/badge/AI%2FML-Foundations-7C3AED?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=7C3AED)
+![GenAI](https://img.shields.io/badge/Generative_AI-LLMs-A855F7?style=for-the-badge&logo=openai&logoColor=white&labelColor=A855F7)
+![CRM](https://img.shields.io/badge/CRM_Systems-Architecture-0EA5E9?style=for-the-badge&logo=salesforce&logoColor=white&labelColor=0EA5E9)
+![Japanese](https://img.shields.io/badge/Japanese-Self_Study-F59E0B?style=for-the-badge&logo=googletranslate&logoColor=white&labelColor=F59E0B)
 
 Native languages: **Hindi · Telugu · English**
 
@@ -104,9 +106,9 @@ Immediately available · 2026
   <tr>
     <td align="left"><b>Frontend</b></td>
     <td align="left">
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/React-087EA4?style=flat-square&logo=react&logoColor=white" alt="React" />
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
-      <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D" alt="Vue.js" />
+      <img src="https://img.shields.io/badge/Vue.js-42B883?style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js" />
       <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
       <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
       <img src="https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=SASS&logoColor=white" alt="SASS" />
@@ -116,7 +118,7 @@ Immediately available · 2026
     <td align="left"><b>Backend</b></td>
     <td align="left">
       <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-      <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
+      <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
       <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot" />
       <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
       <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
@@ -143,7 +145,7 @@ Immediately available · 2026
       <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
       <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white" alt="Gemini API" />
       <img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="Vertex AI" />
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
+      <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
       <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="Google Cloud" />
     </td>
   </tr>
@@ -170,7 +172,7 @@ Immediately available · 2026
       <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions" />
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
       <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-      <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white" alt="Kali Linux" />
+      <img src="https://img.shields.io/badge/Kali_Linux-367BF0?style=flat-square&logo=kali-linux&logoColor=white" alt="Kali Linux" />
       <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium" />
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
     </td>
@@ -249,7 +251,7 @@ Immediately available · 2026
 <h3 align="center">🌿 PlantZ</h3>
 <p align="center"><b>AI plant healthcare and diagnosis assistant</b></p>
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-087EA4?style=flat-square&logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![CNN](https://img.shields.io/badge/CNN-98%25_Accuracy-2E7D32?style=flat-square)
