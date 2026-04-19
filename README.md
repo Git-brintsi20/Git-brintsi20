@@ -32,6 +32,8 @@
 <h2 align="center">🌱 Currently Exploring</h2>
 
 <div align="center">
+  <img src="./.github/currently-exploring-gradient.svg" alt="Currently Exploring"/>
+  <br/><br/>
 
 <table>
 <tr>
@@ -39,10 +41,10 @@
 
 **📚 Learning**
 
-![AI/ML](https://img.shields.io/badge/AI%2FML-Fundamentals-9D4EDD?style=flat-square)
-![GenAI](https://img.shields.io/badge/Generative_AI-LLMs-7B2FBE?style=flat-square)
-![CRM](https://img.shields.io/badge/CRM_Systems-Architecture-D4AF37?style=flat-square)
-![Japanese](https://img.shields.io/badge/🇯🇵_Japanese-Self_Study-D4AF37?style=flat-square)
+![AI/ML](https://img.shields.io/badge/AI%2FML-Foundations-7C3AED?style=for-the-badge&logo=tensorflow&logoColor=white)
+![GenAI](https://img.shields.io/badge/Generative_AI-LLMs-%23A855F7?style=for-the-badge&logo=openai&logoColor=white)
+![CRM](https://img.shields.io/badge/CRM_Systems-Architecture-0EA5E9?style=for-the-badge&logo=salesforce&logoColor=white)
+![Japanese](https://img.shields.io/badge/Japanese-Self_Study-F59E0B?style=for-the-badge&logo=googletranslate&logoColor=white)
 
 Native languages: **Hindi · Telugu · English**
 

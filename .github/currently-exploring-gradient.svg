@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="34" role="img" aria-label="Currently Exploring: AI/ML, GenAI, CRM Architecture, Japanese">
+  <defs>
+    <linearGradient id="exploreGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0ea5e9" />
+      <stop offset="32%" stop-color="#6366f1" />
+      <stop offset="68%" stop-color="#8b5cf6" />
+      <stop offset="100%" stop-color="#d946ef" />
+    </linearGradient>
+    <filter id="exploreShadow" x="-20%" y="-30%" width="140%" height="180%">
+      <feDropShadow dx="0" dy="1.5" stdDeviation="1.5" flood-color="#000000" flood-opacity="0.24" />
+    </filter>
+  </defs>
+  <rect x="1" y="1" width="618" height="32" rx="16" fill="url(#exploreGradient)" filter="url(#exploreShadow)" />
+  <text x="310" y="22" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#ffffff">
+    CURRENTLY EXPLORING • AI/ML • GENAI • CRM ARCHITECTURE • JAPANESE
+  </text>
+</svg>
