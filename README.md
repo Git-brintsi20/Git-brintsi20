@@ -48,7 +48,7 @@
 
 Native languages: **Hindi · Telugu · English**
 Learning : **Japanese**
-Duolingo profile : **![Duolingo japanese Profile](https://www.duolingo.com/profile/HARSHITA120)**
+Duolingo profile : [![Duolingo Japanese Profile](https://img.shields.io/badge/Duolingo-Japanese-58CC02?style=flat-square&logo=duolingo&logoColor=white)](https://www.duolingo.com/profile/HARSHITA120)
 
 </td>
 <td width="50%" valign="top">
