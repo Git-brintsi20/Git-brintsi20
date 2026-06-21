@@ -47,6 +47,8 @@
 ![Japanese](https://img.shields.io/badge/Japanese-Self_Study-F59E0B?style=for-the-badge&logo=googletranslate&logoColor=white&labelColor=F59E0B)
 
 Native languages: **Hindi · Telugu · English**
+Learning : **Japanese**
+Duolingo profile : **![Duolingo japanese Profile](https://www.duolingo.com/profile/HARSHITA120)**
 
 </td>
 <td width="50%" valign="top">
